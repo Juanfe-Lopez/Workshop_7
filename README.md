@@ -7,4 +7,6 @@ Link TinkerCad: https://www.tinkercad.com/things/iJFAeXANsqT-workshop/editel
 
 Link ThingSpeak: https://thingspeak.com/channels/2321887
 
+Link vídeo: https://youtu.be/uBobelvdG5I
+
 
